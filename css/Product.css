@@ -1,0 +1,165 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+body {
+    background-color: #222222;
+}
+
+.navbar {
+    position: fixed;
+    width: 375px;
+    height: 53px;
+    left: 0px;
+    top: 0px;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.navbar img {
+    position: absolute;
+    width: 33px;
+    height: 27px;
+    left: 25px;
+    top: 13px;
+    position: fixed;
+}
+
+.border-product img {
+    box-sizing: border-box;
+    position: absolute;
+    width: 65px;
+    height: 32px;
+    left: 181px;
+    top: 10px;
+    border: 2px solid rgba(255, 255, 255, 0.75);
+    border-radius: 7px;
+}
+
+.satu {
+    position: absolute;
+    width: 37px;
+    height: 16px;
+    left: 125px;
+    top: 18px;
+    font-family: 'Inconsolata';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+
+.satu:hover {
+    color: darkred;
+}
+
+.dua {
+    position: absolute;
+    width: 61px;
+    height: 15px;
+    left: 188px;
+    top: 19px;
+    font-family: 'Inconsolata';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+
+.dua:hover {
+    color: darkred;
+}
+
+.tiga {
+    position: absolute;
+    width: 84px;
+    height: 15px;
+    left: 275px;
+    top: 19px;
+    font-family: 'Inconsolata';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+
+.tiga:hover {
+    color: darkred;
+}
+
+.active {
+    color: darkred;
+}
+
+.des-p {
+    position: absolute;
+    width: 207px;
+    height: 25px;
+    left: 84px;
+    top: 109px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+
+.kotak-1 img {
+    box-sizing: border-box;
+    position: absolute;
+    width: 200px;
+    height: 168.13px;
+    left: 84px;
+    top: 153px;
+    border-bottom: 3px solid #000000;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 7px;
+}
+
+.kotak-2 img {
+    box-sizing: border-box;
+    position: absolute;
+    width: 200px;
+    height: 150.49px;
+    left: 84px;
+    top: 375px;
+    border-bottom: 3px solid #000000;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 7px;
+}
+
+.kotak-3 img {
+    box-sizing: border-box;
+    position: absolute;
+    width: 200px;
+    height: 146.51px;
+    left: 91px;
+    top: 570px;
+    border-right: 3px solid #000000;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 7px;
+}
+
+.kotak-1 img:hover {
+    opacity: 75%;
+}
+.kotak-2 img:hover {
+    opacity: 75%;
+}
+.kotak-3 img:hover {
+    opacity: 75%;
+}
+
+.next-a img {
+    position: absolute;
+    left: 282px;
+    top: 750px;
+    width: 17px;
+    height: 28px;
+}

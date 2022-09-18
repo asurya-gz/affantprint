@@ -1,0 +1,225 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+body {
+    background-color: #222222;
+}
+
+.navbar {
+    position: absolute;
+    width: 375px;
+    height: 53px;
+    left: 0px;
+    top: 0px;
+    background: rgba(0, 0, 0, 0.5);
+    position: fixed;
+}
+
+.navbar img {
+    position: absolute;
+    width: 33px;
+    height: 27px;
+    left: 25px;
+    top: 13px;
+    position: fixed;
+}
+
+.border-home img {
+    box-sizing: border-box;
+    position: absolute;
+    width: 46px;
+    height: 32px;
+    left: 116px;
+    top: 10px;
+    border: 2px solid rgba(255, 255, 255, 0.75);
+    border-radius: 7px;
+}
+
+.satu {
+    position: absolute;
+    width: 37px;
+    height: 16px;
+    left: 125px;
+    top: 18px;
+    font-family: 'Inconsolata';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+
+.satu:hover {
+    color: darkred;
+}
+
+.dua {
+    position: absolute;
+    width: 61px;
+    height: 15px;
+    left: 188px;
+    top: 19px;
+    font-family: 'Inconsolata';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+
+.dua:hover {
+    color: darkred;
+}
+
+.tiga {
+    position: absolute;
+    width: 84px;
+    height: 15px;
+    left: 275px;
+    top: 19px;
+    font-family: 'Inconsolata';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+
+.tiga:hover {
+    color: darkred;
+}
+
+.active {
+    color: darkred;
+}
+
+.border-satu {
+    position: absolute;
+    width: 267px;
+    height: 157px;
+    left: 50px;
+    top: 158px;
+    background: rgba(0, 0, 0, 0.25);
+    border-width: 0px 0px 1px 1px;
+    border-style: solid;
+    border-color: #000000;
+    filter: blur(2px);
+    border-radius: 7px;
+}
+.border-satu:hover {
+    position: absolute;
+    width: 267px;
+    height: 157px;
+    left: 50px;
+    top: 158px;
+    background: rgba(0, 0, 0, 0.25);
+    border-width: 0px 0px 1px 1px;
+    border-style: solid;
+    border-color: #000000;
+    filter: blur(2px);
+    border-radius: 7px;
+    border: 1px solid #fff;
+}
+
+.kata-1{
+    position: absolute;
+    width: 187px;
+    height: 59px;
+    left: 95px;
+    top: 207px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.border-dua{
+    position: absolute;
+    width: 267px;
+    height: 157px;
+    left: 50px;
+    top: 345px;
+    background: rgba(0, 0, 0, 0.25);
+    border-width: 0px 0px 1px 1px;
+    border-style: solid;
+    border-color: #000000;
+    filter: blur(2px);
+    border-radius: 7px;
+}
+
+.border-dua:hover{
+    position: absolute;
+    width: 267px;
+    height: 157px;
+    left: 50px;
+    top: 345px;
+    background: rgba(0, 0, 0, 0.25);
+    border-width: 0px 0px 1px 1px;
+    border-style: solid;
+    border-color: #000000;
+    filter: blur(2px);
+    border-radius: 7px;
+    border: 1px solid #fff;
+}
+
+.kata-2 {
+    position: absolute;
+    width: 187px;
+    height: 59px;
+    left: 95px;
+    top: 394px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.border-tiga {
+    position: absolute;
+    width: 267px;
+    height: 157px;
+    left: 50px;
+    top: 532px;
+    background: rgba(0, 0, 0, 0.25);
+    border-width: 0px 0px 1px 1px;
+    border-style: solid;
+    border-color: #000000;
+    filter: blur(2px);
+    border-radius: 7px;
+}
+.border-tiga:hover {
+    position: absolute;
+    width: 267px;
+    height: 157px;
+    left: 50px;
+    top: 532px;
+    background: rgba(0, 0, 0, 0.25);
+    border-width: 0px 0px 1px 1px;
+    border-style: solid;
+    border-color: #000000;
+    filter: blur(2px);
+    border-radius: 7px;
+    border: 1px solid #fff;
+}
+
+.kata-3 {
+    position: absolute;
+    width: 146px;
+    height: 28px;
+    left: 111px;
+    top: 597px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    color: rgba(255, 255, 255, 0.9);
+}

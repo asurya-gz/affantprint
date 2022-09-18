@@ -1,0 +1,74 @@
+* {
+    padding: 0;
+    margin: 0;
+    background: #222222;
+}
+
+.selamat {
+    position: absolute;
+    width: 232px;
+    height: 21px;
+    left: 72px;
+    top: 73px;
+    font-family: 'Inconsolata';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 34px;
+    color: #FFFFFF;
+}
+
+.di {
+    position: absolute;
+    width: 178px;
+    height: 22px;
+    left: 99px;
+    top: 131px;
+    font-family: 'Inconsolata';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+
+.logo img {
+    position: absolute;
+    width: 245px;
+    height: 177px;
+    left: 65px;
+    top: 229px;
+}
+
+.panah a img {
+    position: absolute;
+    width: 95px;
+    height: 13px;
+    left: 140px;
+    top: 524px;
+    filter: drop-shadow(2px 4px 4px rgba(255, 255, 255, 0.25));
+}
+
+.panah a img:hover {
+    position: absolute;
+    width: 95px;
+    height: 13px;
+    left: 140px;
+    top: 524px;
+    filter: drop-shadow(2px 4px 4px rgba(255, 255, 255, 0.25));
+    opacity: 50%;
+}
+
+.kata-bawah p {
+    position: absolute;
+    width: 220px;
+    height: 20px;
+    left: 84px;
+    top: 591px;
+    font-family: 'Inconsolata';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 16px;
+    color: #FFFFFF;
+}

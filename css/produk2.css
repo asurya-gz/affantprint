@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+body {
+    background-color: #222222;
+}
+
+.gambar-1 img {
+    box-sizing: border-box;
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 88px;
+    top: 41px;
+    border-bottom: 3px solid #000000;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 7px;
+}
+
+.gambar-2 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 88px;
+    top: 287px;
+    border-bottom: 3px solid #000000;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 7px;
+}
+
+.gambar-3 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 88px;
+    top: 533px;
+    border-bottom: 3px solid #000000;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 7px;
+}
+
+.back img {
+    position: absolute;
+    left: 67px;
+    top: 760px;
+}
+
+.next img {
+    position: absolute;
+    left: 291px;
+    top: 760px;
+}
